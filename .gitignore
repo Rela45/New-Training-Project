@@ -1,0 +1,87 @@
+# ================================
+# Unity generated folders
+# ================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ================================
+# Visual Studio / Rider / IDE
+# ================================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ================================
+# Unity cache / metadata
+# ================================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ================================
+# OS generated files
+# ================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ================================
+# Build artifacts
+# ================================
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+*.zip
+
+# ================================
+# Crash reports
+# ================================
+sysinfo.txt
+
+# ================================
+# Logs
+# ================================
+*.log
+
+# ================================
+# Addressables (opzionale)
+# ================================
+Assets/AddressableAssetsData/*/Unity.Addressables*
+Assets/AddressableAssetsData/*/BuildScriptFastMode.bin
+Assets/AddressableAssetsData/*/BuildScriptPackedMode.bin
+Assets/AddressableAssetsData/*/BuildScriptVirtualMode.bin
+
+# ================================
+# User-specific settings
+# ================================
+UserSettings/
+
+# ================================
+# Photon / Multiplayer caches (safe)
+# ================================
+PhotonServer/
+FusionCache/
+
+# ================================
+# Backup & temp files
+# ================================
+*.bak
+*.tmp
+*.swp
